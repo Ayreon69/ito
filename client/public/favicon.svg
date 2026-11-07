@@ -1,0 +1,8 @@
+<svg xmlns="http://www.w3.org/2000/svg" viewBox="0 0 64 64">
+  <rect width="64" height="64" rx="14" fill="#cdeaf7"/>
+  <path d="M2 14 Q32 26 62 14" fill="none" stroke="#c39457" stroke-width="3.5" stroke-linecap="round"/>
+  <rect x="17" y="20" width="30" height="38" rx="5" fill="#fffdf6" stroke="#1f3550" stroke-width="3" transform="rotate(-5 32 20)"/>
+  <text x="32" y="50" font-family="Arial Rounded MT Bold, Arial, sans-serif" font-size="22" font-weight="900" fill="#1f3550" text-anchor="middle" transform="rotate(-5 32 20)">ito</text>
+  <path d="M28.5 9 Q32 8.2 35.5 9 L34.8 30 Q32 30.8 29.2 30 Z" fill="#e8453c" stroke="#1f3550" stroke-width="1.4"/>
+  <rect x="27.6" y="16.5" width="8.8" height="4.4" rx="1.5" fill="#e9edf1" stroke="#7d8a96" stroke-width="1"/>
+</svg>

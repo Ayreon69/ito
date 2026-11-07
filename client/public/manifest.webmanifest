@@ -1,0 +1,11 @@
+{
+  "name": "Ito",
+  "short_name": "Ito",
+  "description": "Une carte de 1 à 100, un thème, et pas le droit de dire son nombre : rangez vos cartes ensemble sur la corde à linge.",
+  "start_url": "/",
+  "display": "standalone",
+  "orientation": "portrait",
+  "background_color": "#e4f5fb",
+  "theme_color": "#cdeaf7",
+  "icons": [{ "src": "/favicon.svg", "sizes": "any", "type": "image/svg+xml" }]
+}
