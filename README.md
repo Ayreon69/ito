@@ -2,7 +2,7 @@
 
 Tout le monde a une carte de 1 à 100. Décrivez vos nombres avec des idées, sans jamais les dire, et rangez-les ensemble sur la corde à linge.
 
-👉 **Jouer : https://ito.onrender.com** (la première ouverture peut prendre jusqu'à une minute, le temps que le serveur gratuit se réveille)
+👉 **Jouer : https://ito-gawd.onrender.com** (la première ouverture peut prendre jusqu'à une minute, le temps que le serveur gratuit se réveille)
 
 Jeu coopératif multijoueur, à jouer entre amis depuis un navigateur, sur téléphone ou ordinateur, sans compte ni installation.
 D'après *ito*, de Mitsuru Nakamura (Arclight ; en français chez Don't Panic Games). Création de fans, non officielle, avec ses propres visuels.
